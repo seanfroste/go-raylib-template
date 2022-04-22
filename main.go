@@ -17,7 +17,7 @@ func main() {
 		/* drawing code */
 
 		rl.EndDrawing()
-}
+	}
 
 	rl.CloseWindow()
 }

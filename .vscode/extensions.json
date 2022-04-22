@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"golang.go",
+		"oderwat.indent-rainbow",
+		"quicktype.quicktype",
+		"visualstudioexptteam.vscodeintellicode",
+		"yokoe.vscode-postfix-go"
+	]
+}

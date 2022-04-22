@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	rl.InitWindow(500, 500, "new window")
+	rl.InitWindow(500, 500, "title")
 
 	rl.SetTargetFPS(60)
 
